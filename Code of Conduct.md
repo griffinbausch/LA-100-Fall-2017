@@ -43,6 +43,7 @@ The instructor should be:
  * Responsive to student emails within 24 hours except on weekends
  * Prompt in posting all course changes to the Kodiak site
  * Willing to offer help if instructor notes a student having difficulty
+ * Post all relavant news and homework updates on to kodiak
 
 Students are encouraged to think independently and you may openly disagree with the instructor or others in class, but you must respond thoughtfully; do not “get personal.”  You are encouraged to critique, question, or challenge ideas but you are not to attack individuals.
 
@@ -75,9 +76,6 @@ We expect all community participants (students, faculty members, administrators,
 ### 7. Late Policy
 All members of the LA 100 community are expected to....
 A deliverable is late when it is submitted after the due date and time. Legitimate lateness include approved illness, family emergencies and death, and athlectic events. 
-1. One day grace period and one letter grade per day afterwards
-  1.A limited number of grace days 
-3. One or two grace "assignments".
 2. Each day after it is late, lose five points up to a max of five days. 
   2.A 5 points first day, 10 points 2nd day, etc. up to five
 
@@ -107,8 +105,6 @@ The cost for distraction would be getting a 0 for participation for that class.
 If student absolutely needs to do something unrelated to class that could be seen as a distraction, they should be allowed to leave class momentarily and take the phone call or whatever is necessary outside of the classroom.
 
 I think you should be allowed a total of 3 "strikes" and if you exceed this amount it will result in a loss of credit. Continually getting strikes will take more and more credit off. A strike consists of any action a student does that purposefully prohibits his/her other classmates from learning.
-
-Distraction is not paying attention to other people (Professors, other students) or making other people not pay attention to the others. Examples including making a sound (whispers, phone's sound, keyboard's typing sounds). To handle it, we must not making any necessary sound: turn off the phone's sound, don't talk to the other while the professor or somebody is talking, etc. I agree with everyone's comments that we should have 3 strikes, after the 3rd strike, we lost the credit. Of course there are some exception like the others already said: when you have an emergency call of text, you should ask the professor to do that, or when you are trying to not pooping or peeing but you cannot, just quietly stand up, whisper to the professor and go out.
 
 ### 10. Contact info
 Heidi Ellis - ellis@wne.edu
